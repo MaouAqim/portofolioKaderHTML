@@ -66,3 +66,7 @@ a:hover {
     font-size: 20px;
     transition-duration: 0.5s;
 }
+
+.panel {
+    margin: 0px 25px;
+}
