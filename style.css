@@ -28,7 +28,6 @@ img {
     background-color: aliceblue;
     padding: 20px;
     border-radius: 20px;
-    margin: 25px;
 }
 
 .kotak-biodata {
@@ -68,6 +67,3 @@ a:hover {
     transition-duration: 0.5s;
 }
 
-.panel {
-    margin: 25px 25px;
-}
